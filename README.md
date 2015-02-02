@@ -1,5 +1,5 @@
 # MongoTest
-Testing for mongo database
+Testing the mongodb
 
 To start mongodb server use command mongod --dbpath "c:\mongodb"
 
